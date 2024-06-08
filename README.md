@@ -1,7 +1,6 @@
 # LinuxShellProgram
-Shell Program with Environment Variables and Multiple Pipes
 # Shell Program with Environment Variables and Multiple Pipes
-Authored by Adam Shay
+Authored by saeed asle
 
 ## Description
 This shell program supports environment variables, multiple pipes, background processes, output redirections, and more basic commands.
